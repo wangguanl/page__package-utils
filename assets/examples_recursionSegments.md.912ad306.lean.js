@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.699a2787.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"examples/recursionSegments.md","lastUpdated":1678953272000}'),r={name:"examples/recursionSegments.md"};function a(n,o,c,p,m,i){return s(),t("div")}const l=e(r,[["render",a]]);export{_ as __pageData,l as default};
