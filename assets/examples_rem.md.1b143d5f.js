@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.699a2787.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"examples/rem.md","lastUpdated":1683177401000}'),r={name:"examples/rem.md"};function s(o,c,n,p,m,d){return a(),t("div")}const l=e(r,[["render",s]]);export{i as __pageData,l as default};
